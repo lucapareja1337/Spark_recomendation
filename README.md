@@ -2,7 +2,7 @@
 
 ## Overview
 
-Clustering musics according to their gender 
+Clustering spotfy songs following the provied API
 
 ## Requirements
 
